@@ -9,7 +9,13 @@ int main()
      {
           cout<<"Enter even number\n";
           cin>>evenNum;
+          if( evenNum % 2 == 0)
+          {
+               cout << evenNum << " is an even number " << endl;
+          }
           
           
-          cout 
-      }while(evenNum < 5);        
+      }while(evenNum < 5); 
+     
+     return 0;     
+}
