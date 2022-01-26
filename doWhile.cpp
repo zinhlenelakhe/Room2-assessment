@@ -13,6 +13,10 @@ int main()
           {
                cout << evenNum << " is an even number " << endl;
           }
+          else
+          {
+               cout << evenNum << " Is not an even number re enter number " << endl;
+          }
           
           
       }while(evenNum < 5); 
