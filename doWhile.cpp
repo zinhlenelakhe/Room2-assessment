@@ -17,6 +17,7 @@ int main()
           {
                cout << evenNum << " Is not an even number re enter number " << endl;
           }
+          i++;
           
           
       }while(evenNum < 5); 
