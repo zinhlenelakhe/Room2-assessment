@@ -10,6 +10,6 @@ int main()
  
  cout << " Hello " << name << "!" << endl;
 
-
+    system("pause");
     return 0;
 }
