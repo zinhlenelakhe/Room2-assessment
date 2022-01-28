@@ -20,7 +20,7 @@ int main()
           i++;
           
           
-      }while(evenNum < 10); 
+      }while(evenNum <= 10); 
      
      return 0;     
 }
