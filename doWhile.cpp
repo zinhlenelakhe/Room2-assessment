@@ -7,7 +7,7 @@ int main()
      int i = 0;
      do
      {
-          cout<<"Enter even number\n";
+          cout<<"Enter even number from 0 to 10\n";
           cin>>evenNum;
           if( evenNum % 2 == 0)
           {
@@ -15,12 +15,12 @@ int main()
           }
           else
           {
-               cout << evenNum << " Is not an even number re enter number " << endl;
+               cout << evenNum << " Is not an even number re-enter number " << endl;
           }
           i++;
           
           
-      }while(evenNum < 5); 
+      }while(evenNum < 10); 
      
      return 0;     
 }
