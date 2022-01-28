@@ -19,7 +19,7 @@ int main()
                cin>>initial;
                cout<<"enter your surname :";
                cin>>surname;
-               cout<<"your initial is "<<initial<< "and your surname is "<<surname<<endl;
+               cout<<"your initial is "<<initial<< "  and your surname is "<<surname<<endl;
           }
           else
           {
