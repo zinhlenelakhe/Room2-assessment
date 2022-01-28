@@ -20,10 +20,12 @@ int main()
                cout<<"enter your surname :";
                cin>>surname;
                cout<<"your initial is "<<initial<< "  and your surname is "<<surname<<endl;
+               cout<<"and you enetred even number"<<evenNum<<endl;
           }
           else
           {
                cout << evenNum << " Is not an even number re-enter number " << endl;
+               cout<<"exit if completed"<<endl;
           }
           i++;
           
